@@ -19,4 +19,4 @@ list_of_items = ["Bag", "Table", "Book"]
 cart_total += item_price["Bag"]
 cart_total += item_price["Table"]
 cart_total += item_price["Book"]
-print(f"Items: {list_of_items}\nTotal Price: #{cart_total}")
+print(f"Items: {list_of_items}\nTotal Price: ₦{cart_total}")
